@@ -1,0 +1,19 @@
+body {
+
+text-align: center;
+
+}
+
+#submit_button {
+
+background-color: green;
+border-radius: 40%;
+color: white;
+}
+
+#sort_button {
+background-color: green;
+border-radius: 40%;
+color: white;
+display: none;
+}
